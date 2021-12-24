@@ -1,0 +1,6 @@
+numpy (numerical python)
+import numpy as np
+np.array([1,2,3,4])   #takes list of same type of elements
+upcasts the elements if possible 
+np.array([2.3,4,5,1.2])  #upcasts integers to float
+
